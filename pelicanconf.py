@@ -6,18 +6,18 @@ import datetime
 ## THINGS TO CONFIGURE
 ## ---------------------------------------------------------------------
 
-AUTHOR = u'A blog-o-matic user'
-SITENAME = u'My personal blog with blog-o-matic'
-SITESUBTITLE = u'This is where I do test things'
+AUTHOR = u'aceJacek'
+SITENAME = u'Olewaczers'
+SITESUBTITLE = u'Random bits and pieces'
 SITEURL = u'/'
 DEFAULT_LANG = u'en'
 DEFAULT_CATEGORY = 'blog'
-CLAIM_GOOGLE = "Bk4Z5ucHLyPXqlZlj5LzANpYBBSvxqBW4E8i-Kwf-bQ"
+CLAIM_GOOGLE = "M6MQUe1hTJb7RFkxNPpIPpvTzAl5zQwSmMsD8bMX71A"
 CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 
 
-LANDING_PAGE_ABOUT = {'title': 'My blog',
-                      'details': """<p>This website contains Info that might be interesting for you, enjoy!</p>"""}
+LANDING_PAGE_ABOUT = {'title': '/dev/null',
+                      'details': """<p>Nothing to see here, move along.</p>"""}
 
 
 PROJECTS = [{'name': 'Blog-o-matic', 'url': 'https://github.com/iranzo/blog-o-matic',
@@ -35,14 +35,14 @@ LINKS = (('Redken on telegram', 'https://t.me/redken_bot'),
 
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
-SOCIAL = (('Twitter', 'http://twitter.com/iranzop'),
-          ('github', 'http://github.com/iranzo'),
-          ('linkedin', 'https://www.linkedin.com/in/iranzo/'),)
+SOCIAL = (('Twitter', 'http://twitter.com/acejacek'),
+          ('github', 'http://github.com/acejacek'),
+#          ('linkedin', 'https://www.linkedin.com/in/iranzo/'),
+         )
 
-
-# TWITTER_USERNAME = "fillit"
+TWITTER_USERNAME = "acejacek"
 # Update if you use amazon links
-AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
+#AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
