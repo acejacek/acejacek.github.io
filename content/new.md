@@ -7,6 +7,7 @@ comments: true
 category: blog
 description:
 lang: en
+slug: nie-wiem-co-to-jest
 ---
 
 # test page
