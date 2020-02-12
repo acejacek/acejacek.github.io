@@ -19,14 +19,14 @@ LANDING_PAGE_ABOUT = {'title': '/dev/null',
                       'details': """<p>Nothing to see here, move along.</p>"""}
 
 
-PROJECTS = [{'name': 'Blog-o-matic', 'url': 'https://github.com/iranzo/blog-o-matic',
-             'description': 'Canned blog automation for quickly setting up a blog with Pelican'},
-            {'name': 'Citellus', 'url': 'https://citellus.org',
-             'description': 'Troubleshooting automation tool with easy to contribute rules'},
-            {'name': 'Pablo Iranzo Blog', 'url': 'https://iranzo.github.io',
-             'description': 'Other projects at Github website'},
-            {'name': 'Redken Telegram BOT', 'url': 'https://t.me/redken_bot',
-             'description': 'A Telegram bot with support for Karma, RSS Feeds, Quotes, etc'}]
+#PROJECTS = [{'name': 'Blog-o-matic', 'url': 'https://github.com/iranzo/blog-o-matic',
+#             'description': 'Canned blog automation for quickly setting up a blog with Pelican'},
+#            {'name': 'Citellus', 'url': 'https://citellus.org',
+#             'description': 'Troubleshooting automation tool with easy to contribute rules'},
+#            {'name': 'Pablo Iranzo Blog', 'url': 'https://iranzo.github.io',
+#             'description': 'Other projects at Github website'},
+#            {'name': 'Redken Telegram BOT', 'url': 'https://t.me/redken_bot',
+#             'description': 'A Telegram bot with support for Karma, RSS Feeds, Quotes, etc'}]
 
 
 LINKS = (('Redken on telegram', 'https://t.me/redken_bot'),
@@ -44,7 +44,7 @@ TWITTER_USERNAME = "acejacek"
 #AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
 
 # GOOGLE_ANALYTICS tracking ID
-# GOOGLE_ANALYTICS = "UA-81705-12"
+GOOGLE_ANALYTICS = "UA-900776-7"
 
 ## Configure if you use Disqus for comments
 # DISQUS_SITENAME = "iranzo-github-io"
@@ -80,7 +80,7 @@ PHOTO_EXIF_COPYRIGHT = 'COPYRIGHT'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Madrid'
+TIMEZONE = 'Europe/Stockholm'
 
 # Put as draft content in the future
 WITH_FUTURE_DATES = True
