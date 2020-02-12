@@ -12,9 +12,8 @@ SITESUBTITLE = u'Random bits and pieces'
 SITEURL = u'/'
 DEFAULT_LANG = u'en'
 DEFAULT_CATEGORY = 'blog'
-CLAIM_GOOGLE = "M6MQUe1hTJb7RFkxNPpIPpvTzAl5zQwSmMsD8bMX71A"
+CLAIM_GOOGLE = "2DWwJfldGadzz8XYseHyokVFxbH4e80X_4copgFEbA0"
 CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
-
 
 LANDING_PAGE_ABOUT = {'title': '/dev/null',
                       'details': """<p>Nothing to see here, move along.</p>"""}
